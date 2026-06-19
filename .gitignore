@@ -1,0 +1,32 @@
+# Private CTF Files
+# Ignore any files or folders that contain solutions, flags, or secrets
+
+# Directories
+Private/
+Solutions/
+Admin/
+Secrets/
+
+# Specific Files
+flag.txt
+flags.txt
+solution.txt
+solution.md
+writeup.txt
+writeup.md
+*.key
+*.pem
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
