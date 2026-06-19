@@ -1,0 +1,36 @@
+# The Missing Detective
+New York City, 1933. The masked vigilante Spider-Man has vanished into the shadows. As a hard-boiled detective, you must navigate through corrupt police reports, hidden evidence, and a conspiracy involving Fisk Industries to uncover the truth.
+Can you solve the case and find Spider-Man before it's too late?
+
+
+ZG9ja2VyIHJ1biAtZCAtcCA4MDgwOjgwIGFudjEwMDAvc3BpZGVyLW5vaXItY3RmOmxhdGVzdA==
+docker run -d -p 8080:80 anv1000/spider-noir-ctf:latest
+
+#Black Out
+YOU CAN FIND THE WAY BUT YOU CAN'T CATCH UP
+
+65.2.38.57
+
+#SpiderNoir
+Search for the Spider web
+
+65.2.38.79
+
+#SPIDERNOIR
+MYBE YOU CAN BE A DETECTIVE
+
+3.110.120.123
+
+
+#The Missing Detective
+New York City, 1933. The masked vigilante Spider-Man has vanished into the shadows. As a hard-boiled detective, you must navigate through corrupt police reports, hidden evidence, and a conspiracy involving Fisk Industries to uncover the truth.
+
+Can you solve the case and find Spider-Man before it's too late?
+
+ZG9ja2VyIHJ1biAtZCAtcCA4MDgwOjgwIGFudjEwMDAvc3BpZGVyLW5vaXItY3RmOmxhdGVzdA==
+
+#Spider Nest
+Spider Crawling
+
+
+3.111.170.199

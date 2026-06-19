@@ -1,0 +1,9 @@
+2026-06-18 21:30:52.581 src/modules/Logging/logging.ts:59 - [100]: Initializing console logging...
+2026-06-18 21:30:52.581 src/modules/Logging/logging.ts:65 - [100]: Logging subsystem initialized
+2026-06-18 21:30:52.581 console.log: Console logging initialized
+2026-06-18 21:30:52.790 src/App.tsx:45 - [100]: Build timestamp: 2605201302
+2026-06-18 21:30:52.790 src/App.tsx:49 - [100]: isNativeClient: false
+2026-06-18 21:30:52.790 src/App.tsx:50 - [100]: clientOS: Unknown
+2026-06-18 21:30:52.840 src/hocs/requiredCapabilities.tsx:24 - [100]: Requiring capabilities: cookies,localStorage
+2026-06-18 21:30:52.986 src/hooks/useFormWithCaptcha.tsx:51 - [100]: Captcha is required
+2026-06-18 21:30:52.986 src/hooks/useRecaptcha.ts:39 - [100]: Alibaba captcha: No
